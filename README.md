@@ -8,4 +8,6 @@ percentile salaries. Some questions we will be exploring is will salaries based 
 
 By the end of our exploration the main hypothesis: Attending an Ivy League school automatically gives you a higher starting salary.
 
+To explore a more interactive dashboard of the data here is a link to Tableau Public: https://public.tableau.com/views/College_Analysis/CollegeSalaryAnalysisDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
 Please select the file named: Capstone_College_Salary_Analysis.ipynb
